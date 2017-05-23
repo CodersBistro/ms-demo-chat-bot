@@ -1,0 +1,16 @@
+{
+  "name": "carkorner-bot",
+  "version": "1.0.0",
+  "description": "Bot for the carkorner.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "logger": "^0.0.1",
+    "restify": "^4.3.0"
+  }
+}
